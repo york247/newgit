@@ -10,7 +10,7 @@ public class newgit {
         System.out.println("SOPAPO");
     }
     public static void method2() {
-        System.out.println("el perro ladra : gua gua");
+        System.out.println("el perro ladra : gua gua gua");
     }
 
     public static void method3() {
