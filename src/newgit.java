@@ -14,6 +14,7 @@ public class newgit {
     public static void method3() {
     }
     public static void method4() {
+        System.out.println("Hola grupo, os hablo desde Marte!");
     }
 }
 
