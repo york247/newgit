@@ -7,7 +7,7 @@ public class newgit {
         method4();
     }
     public static void method1(){
-
+        System.out.println("SOPAPO");
     }
     public static void method2() {
         System.out.println("el perro ladra : gua gua");
