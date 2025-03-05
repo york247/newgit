@@ -16,6 +16,7 @@ public class newgit {
     public static void method3() {
     }
     public static void method4() {
+        System.out.println("el gato gatea");
     }
 }
 
